@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="styles.css" />
+
+        <!-- Title -->
+        <title>Summary Result</title>
+        <link rel="icon" href="assets/images/favicon-32x32.png" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="result">
+                <h2>Your Result</h2>
+                <div class="grade">
+                    <h1>76</h1>
+                    <p>of 100</p>
+                </div>
+                <div class="detail">
+                    <h1>Great</h1>
+                    <p>You scored higher than 65% of the people who have taken these tests.</p>
+                </div>
+            </div>
+            <div class="summary">
+                <h2>Summary</h2>
+                <div class="data">
+                    <div class="reaction"></div>
+                    <div class="memory"></div>
+                    <div class="verbal"></div>
+                    <div class="visual"></div>
+                </div>
+                <button>Continue</button>
+            </div>
+        </div>
+    </body>
+
+    <script>
+        fetch("data.json").then((response) => {
+            console.log(response);
+        });
+    </script>
+</html>
