@@ -8,8 +8,9 @@ Tools     : `HTML`, `CSS`, `JavaScript`
 
 **Challenge Preview:**
 
-![desktop-design](https://github.com/ddedida/results-summary-component/assets/108203648/c29c692e-edad-4cb2-8485-69964f0d15da)
+![desktop-design](https://github.com/ddedida/results-summary-component/assets/108203648/4fa92892-d326-40fc-b91d-da9b7318a9c2)
 
 **My Result:**
 
-![Screenshot (94)](https://github.com/ddedida/results-summary-component/assets/108203648/05447de2-9ef7-4137-8c78-c014b76dc232)
+![Screenshot (94)](https://github.com/ddedida/results-summary-component/assets/108203648/915728f8-5e0e-416d-8391-70418fa5f23b)
+
