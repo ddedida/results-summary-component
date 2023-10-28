@@ -156,6 +156,10 @@ body {
     border-radius: 50px;
 }
 
+.summary button:hover {
+    background: linear-gradient(var(--gradient-light-slate-blue), var(--gradient-light-royal-blue));
+}
+
 .data {
     display: flex;
     flex-direction: column;
